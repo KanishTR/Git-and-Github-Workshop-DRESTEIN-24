@@ -1,5 +1,5 @@
 # Git-and-Github-Workshop-DRESTEIN-24
-NAME:  
-REGISTER NUMBER :  
-DEPARTMENT :  
-YEAR :  
+NAME: Kanish TR 
+REGISTER NUMBER : 24900912 
+DEPARTMENT :  ECE
+YEAR :  1st year
